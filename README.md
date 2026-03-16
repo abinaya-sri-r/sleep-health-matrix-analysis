@@ -9,3 +9,18 @@ Technologies
  5.Streamlit
  6.Matplotlib
  
+  Features
+1. Sleep pattern analysis
+2.Health status prediction
+3. Machine learning model (Random Forest)
+4. Data visualization
+5.Interactive web interface
+
+ How to Run the Project
+1. Install Python
+2. Install required libraries
+3. Run the Streamlit application
+
+```bash'''
+pip install -r requirements.txt
+streamlit run main.py
